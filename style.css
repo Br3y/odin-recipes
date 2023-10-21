@@ -33,7 +33,7 @@ footer {
   padding-top: 16px;
 }
 
-@media (width <= 425) {
+@media (width <= 425px) {
   .food-container {
     flex-direction: column;
   }
