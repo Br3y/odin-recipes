@@ -2,11 +2,17 @@ p,
 h3,
 ol,
 li {
-  text-align: left;
+  text-align: justify;
 }
 
-img{
-    border-radius: 16px;
-    box-shadow: 0 0 3px 6px royalblue;
-    max-width:75%;
+img {
+  border-radius: 16px;
+  box-shadow: 0 0 3px 6px royalblue;
+}
+main {
+  margin: 0 16px;
+  display: flex;
+  gap: 32px;
+  align-items: center;
+  height: 95vh;
 }
